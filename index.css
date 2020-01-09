@@ -1,0 +1,127 @@
+body{
+    background-color: #777777;
+    width: 960px;
+    margin: auto;
+   
+
+}
+.header1{
+    background-color: white;
+    width: 80%;
+    height: 100px;
+    margin: auto;
+    margin-top: 10px;
+    color: #777777;
+
+}
+.header2{
+    background-color: white;
+    color: #777777;
+    width: 80%;
+    height: 100px;
+    margin: auto;
+    margin-top: 5px;
+}
+section{
+    background-color: white;
+    width: 48%;
+    height: 300px;
+    margin-left: 10%;
+    float: left;
+    display: block;
+    margin-top: 10px;
+    position: relative;
+    
+}
+aside{
+    background-color: black;
+    width: 30%;
+    height: 300px;
+    float: right;
+    margin-top: 5px;
+    display: block;
+    margin-right: 10%;
+    margin-top: 10px;
+    
+
+}
+article{
+    
+    display: block;
+    background-color:#777777 ;
+    width: 91%;
+    height: 70%;
+    position: absolute;
+    margin-left: 20px;
+    margin-top: 75px;
+}
+.p1{
+    color: grey;
+    text-align: center;
+    display: block;
+    position: absolute;
+    margin-left: 43%;
+}
+.p2{
+    color:white;
+
+    display: block;
+    
+}
+.h{
+    color: #777777;
+    background-color: white;
+    width: 90%;
+    height: 26%;
+    position: absolute;
+    margin-left: 18px;
+    margin-top: 30px;
+    text-align: center;
+    
+}
+article{
+    background-color:#777777;
+}
+.p3{
+    color: #777777;
+    background-color: white;
+    width: 90%;
+    height: 26%;
+    position: absolute;
+    margin-left: 18px;
+    margin-top: 95px;
+}
+h1, p ,aside {
+    text-align: center;
+    color: #777777;
+}
+aside{
+    background-color: white;
+    color: black;
+    
+
+}
+.h22{
+    margin-top: 30px;
+    color: #777777;
+}
+header, .h3{
+    text-align: center;
+    margin-top: 40px;
+    
+    
+}
+h3{
+    position: fixed;
+    margin-left: 370px;
+}
+footer{
+    background-color: white;
+    color: black;
+    margin-top: 316px;
+    width: 80%;
+    text-align: center;
+    margin-left: 10%;
+    height: 100px;
+    
+}
